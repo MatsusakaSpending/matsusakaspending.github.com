@@ -54,7 +54,7 @@ OpenSpending.Styles.Cofog = {
   '902': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
   '10': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' },
   '1001': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' },
-  '1002': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' },
+  '1002': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
